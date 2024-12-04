@@ -44,6 +44,6 @@
 
 - 📣 [公告速递](https://github.com/wangweidong929/winter-announcement-backend) —— 基于 SpringBoot + Vue3 开发的动态公告系统。
 
-- 🌟 [OSS Starter](https://github.com/wangweidong929/winter-OSS-backend) —— 基于 SpringBoot 开发，基于 AmazonS3 协议，适配市面上的对象存储服务如：阿里云 OSS、腾讯 COS、七牛云 OSS、MInio 等等。
+- 🌟 [OSS Starter](https://github.com/wangweidong929/winter-OSS-backend) —— 企业级 OSS 对象存储服务 SpringBoot Starter 制作，基于 AmazonS3 协议，适配市面上的对象存储服务如：阿里云 OSS、腾讯 COS、七牛云 OSS、MInio 等等，开箱即用，为项目赋能。
 
 - 🔑 [短链星](https://github.com/wangweidong929/winter-short-link-backend) —— 基于 SpringBoot + Vue3 的简单高效的 URL 缩短系统，将长 URL 缩短为易于分享的简洁链接。
