@@ -5,7 +5,7 @@
 
 - 🏡 工龄 3 年
 
-- 💻 爱做项目，10+ 独立项目经验
+- 💻 爱做项目，20+ 独立项目经验
 
 **技术栈**
 <!-- https://github.com/tandpfun/skill-icons -->
@@ -14,7 +14,11 @@
 **开发的项目**
 - 🎉 [API Space](https://github.com/wangweidong929/winter-api-space-backend) —— 基于之前的学习项目，以 API 开放平台为中心，综合其他项目的一个聚合项目。
 
-- 📷 [协同图云](https://github.com/wangweidong929/winter-cloud-picture-backend) —— 基于 Vue 3 + Spring Boot + COS + WebSocket 开发。
+- 💞 [AI Agents](https://github.com/wangweidong929/winter-api-space-backend) —— 以 AI 开发实战 为核心的项目，将通过开发 AI 恋爱大师应用 + 拥有自主规划能力的超级智能体，掌握新时代程序员必知必会的 AI 核心概念、AI 实用工具和 AI 编程技术。
+
+- 👍 [十七个赞](https://github.com/wangweidong929/winter-cloud-picture-backend) —— 基于 Spring Boot 3 + Java 21 + MyBatis-Plus + TiDB + Redis + Pulsar + Docker + Nginx 的高并发点赞系统。该项目涵盖高并发、大流量、高性能、高可用、分布式架构、可观测性等核心技术，集成最新的技术栈和架构设计方案，是从 0 到 1 打造大流量点赞系统的实践。
+
+- 📷 [协同图云](https://github.com/wangweidong929/winter-cloud-picture-backend) —— 基于 Vue 3 + Spring Boot + COS + WebSocket 的企业级智能协同云图库平台。涉及文件存管、内容检索、权限控制、实时协同等企业主流业务场景，技术栈包括 MySQL 分库分表、Redis + Caffeine 多级缓存、COS 对象存储、Sa-Token 权限控制、DDD 领域驱动设计、WebSocket 实时通讯、JUC、Disruptor、AI 绘图大模型、设计模式等。
 
 - 🎓 [刷题小站](https://github.com/wangweidong929/winter-interview-backend) —— 基于 Next.js 服务端渲染 + Spring Boot + Redis + MySQL + Elasticsearch 开发，学习实战 React 和 Next.js 服务端渲染网站开发、后端 Redis 多级缓存、ElasticSearch 搜索、Redisson 高级数据结构、Druid 并发、HotKey 探测、Sa-Token 权限控制、Nacos 动态配置、Sentinel 流量控制和反爬虫设计等技术，提升对技术的应用能力。
 
