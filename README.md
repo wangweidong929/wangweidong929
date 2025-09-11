@@ -14,6 +14,8 @@
 **开发的项目**
 - 🎉 [API Space](https://github.com/wangweidong929/winter-api-space-backend) —— 基于之前的学习项目，以 API 开放平台为中心，综合其他项目的一个聚合项目。
 
+- 💞 [AI Zero Code](https://github.com/wangweidong929/winter-api-space-backend) —— 以 AI 开发实战 + 后段架构设计为核心的项目，基于 Spring Boot3 + LangChain4j + Vue3 开发，对标大厂的企业级代码生成平台，学习掌握新时代程序员必知必会的 AI 智能体开发、AI工作流等前沿技术。
+
 - 💞 [AI Agents](https://github.com/wangweidong929/winter-api-space-backend) —— 以 AI 开发实战 为核心的项目，将通过开发 AI 恋爱大师应用 + 拥有自主规划能力的超级智能体，掌握新时代程序员必知必会的 AI 核心概念、AI 实用工具和 AI 编程技术。
 
 - 👍 [十七个赞](https://github.com/wangweidong929/winter-cloud-picture-backend) —— 基于 Spring Boot 3 + Java 21 + MyBatis-Plus + TiDB + Redis + Pulsar + Docker + Nginx 的高并发点赞系统。该项目涵盖高并发、大流量、高性能、高可用、分布式架构、可观测性等核心技术，集成最新的技术栈和架构设计方案，是从 0 到 1 打造大流量点赞系统的实践。
@@ -39,6 +41,10 @@
 - 👪 [配对大师](https://github.com/wangweidong929/winter-friend-backend) —— 基于 SpringBoot + Vue3 的 H5 风格 APP，巩固项目开发流程，学习 Redis、事务、并发编程、大数据推荐思想等后端知识。
 
 - 🙍 [用户中心](https://github.com/wangweidong929/winter-user-backend) —— 基于 SpringBoot + Vue3 的用户后台管理系统，实现最基本的业务逻辑，系统学习完整的项目开发流程和上线方法。
+
+- 📖 [公众号管理](https://github.com/wangweidong929/winter-blog-backend) —— 基于 SpringBoot3 + VxJava + Spring AI 的公众号管理系统。
+
+- 📖 [AI 图书馆](https://github.com/wangweidong929/winter-blog-backend) —— 使用 AI 和数据分析对用户所喜欢的图书进行精准推荐并使用 AIGC 生成数据分析图表。
 
 - 📖 [WinterBlog](https://github.com/wangweidong929/winter-blog-backend) —— 基于 SpringBoot + Vue3 的 maven 多模块项目。
 
