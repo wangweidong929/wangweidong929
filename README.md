@@ -12,4 +12,4 @@
 <img align="center" src="https://skillicons.dev/icons?i=java,spring,mysql,redis,elasticsearch,rabbitmq,docker,jenkins,kubernetes,html,css,js,ts,vue,vite,pinia,react,nodejs,nginx,git,github,gitlab,linux,md,vscode,visualstudio,idea,webstorm,pycharm,rider&theme=light" />
 
 **开发的项目**
-- 🎉 [十七工作室](https://github.com/wangweidong929/seventeen-studio) —— 综合类个人项目。
+- 🎉 [十七-Seventeen](https://github.com/wangweidong929/seventeen) —— 综合类个人项目。
