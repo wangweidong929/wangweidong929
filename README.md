@@ -5,7 +5,7 @@
 
 - 🏡 工龄 3 年
 
-- 💻 个人综合项目：十七工作室
+- 💻 个人综合项目：十七-Seventeen
 
 **技术栈**
 <!-- https://github.com/tandpfun/skill-icons -->
